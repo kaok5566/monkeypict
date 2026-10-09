@@ -1,7 +1,10 @@
+// @updateURL    https://raw.githubusercontent.com/kaok5566/monkeypict/main/likedoa-photo-downloader.user.js
+// @downloadURL  https://raw.githubusercontent.com/kaok5566/monkeypict/main/likedoa-photo-downloader.user.js
+
 // ==UserScript==
 // @name         來客多 依關鍵字批次下載貼文首圖
 // @namespace    likedoa-photo-downloader
-// @version      2.1
+// @version      2.2
 // @description  貼上商品清單(可含日期/價格/emoji)，自動清成商品名稱，逐一用頁面搜尋欄搜尋，前往FB貼文並下載第一張照片(排除影片)
 // @match        https://seller.likedoa.com/*
 // @match        https://www.facebook.com/*
